@@ -1,2 +1,3 @@
-# lite-analytics-dashboard-x3yb
+# Lite Analytics Dashboard X3Yb
+
 A repository to test GitHub automation for issue management.
